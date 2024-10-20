@@ -1,0 +1,15 @@
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\bin\Debug\net7.0\sh_lab_3.exe
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\bin\Debug\net7.0\sh_lab_3.deps.json
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\bin\Debug\net7.0\sh_lab_3.runtimeconfig.json
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\bin\Debug\net7.0\sh_lab_3.dll
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\bin\Debug\net7.0\sh_lab_3.pdb
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.csproj.AssemblyReference.cache
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.AssemblyInfoInputs.cache
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.AssemblyInfo.cs
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.dll
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\refint\sh_lab_3.dll
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.pdb
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\sh_lab_3.genruntimeconfig.cache
+C:\Users\Frozin\Desktop\Study\Univer\Shabloni\GIT\lab-3-shablon\sh_lab_3\obj\Debug\net7.0\ref\sh_lab_3.dll
